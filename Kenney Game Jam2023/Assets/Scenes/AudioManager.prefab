@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &191351913858741604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 662504893730839002}
+  - component: {fileID: 2559903114459940348}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &662504893730839002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191351913858741604}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2559903114459940348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191351913858741604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dda7a4a4a021aae4caad2c542980c7fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: POP
+    clip: {fileID: 8300000, guid: e338a540fd109bb4d8d4f6065e4514d5, type: 3}
+    volume: 1
+    delay: 0
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BOTON
+    clip: {fileID: 8300000, guid: 58f79183eef0d26478615d929c25bb54, type: 3}
+    volume: 1
+    delay: 0
+    pitch: 0.7
+    loop: 0
+    source: {fileID: 0}
+  - name: LOGROFINAL
+    clip: {fileID: 8300000, guid: 9e39bf6b5c63b0540abd5e7ac37699c4, type: 3}
+    volume: 0.2
+    delay: 0
+    pitch: 0.7
+    loop: 0
+    source: {fileID: 0}
+  - name: LOGRO
+    clip: {fileID: 8300000, guid: 202535dc62cc6a8478e78df3ae7ed445, type: 3}
+    volume: 0.2
+    delay: 0
+    pitch: 0.7
+    loop: 0
+    source: {fileID: 0}

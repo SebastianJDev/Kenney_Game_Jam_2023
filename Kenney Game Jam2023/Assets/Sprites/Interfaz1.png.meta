@@ -1,0 +1,7039 @@
+fileFormatVersion: 2
+guid: 3a1eb85329a9be2409a60f8df4afcaeb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interfaz1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1554
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50fd5586b80604459a7269e6472848f
+      internalID: -141326371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1554
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0d94ae93690844b56c46a5c086a94
+      internalID: -611804751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1554
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841c3a119740bbd48bd77c6133506933
+      internalID: -965219886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1548
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fed3bd858f5074190eb1e0cd494c23
+      internalID: -1488727250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1603
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a175f5f674ee7499769ca959812155
+      internalID: 1385262850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1557
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d17cd47b047a1a41b3ceed5e3bfc541
+      internalID: -2109630045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1557
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217af6b5c055b342b891a8dc113bcb0
+      internalID: 816871858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1557
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad9ef7a1366da940adb0415ac90f590
+      internalID: -1942441286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_8
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1557
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808aeb716ba11b4aa75e972fb51c27a
+      internalID: 1465399936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_9
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1557
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86f9fe10c21c046a4e5a14b8b45916
+      internalID: 354099121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_10
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1557
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23c0752d94942f4391cc06f5f397aed
+      internalID: 1796158000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_11
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1557
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade30581795287a4884d9f6a7ca8b08d
+      internalID: 674292850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_12
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1551
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05680066bb720694f8f8c2c0d0b12e56
+      internalID: -1093637587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_13
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1551
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1386734ccd73044ab1bb696223d0502
+      internalID: 955338669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_14
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1551
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2768c7e887a04785c82677db0f576
+      internalID: 1949026511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_15
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1544
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df31abf8f589c64e9bd3bfbb17a3242
+      internalID: -1039322782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_16
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1544
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d876111c70054f88f8300dabfef04
+      internalID: 900719751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_17
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1544
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c22dead9b9d7745b72f59ea1b5b1f0
+      internalID: 539165010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_18
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1548
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a880fecd6f5f749804e48d2d3d396a
+      internalID: -1453235515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_19
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1548
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c42960754c5743b44a2bf71279f93
+      internalID: 1168349853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_20
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1551
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a270b03a385733d47a17aa0e5446daae
+      internalID: -1975572793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_21
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1551
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3294a864165674680c31af8f86a652
+      internalID: 1785306601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1545
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5de428296ce684a98837d2d66f82de
+      internalID: -1218034281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 1026
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6737526c9d40b148bf08dbc08708556
+      internalID: 83421766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_24
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1414
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfdacccb3eedce488a28bccb2b1613e
+      internalID: -536212390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_25
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1418
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435c3476f4b16ab47a3c2c2e6e961af5
+      internalID: -490383666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_26
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1421
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f83c8a4f184e794891a1e5550c0a644
+      internalID: -44490142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_27
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1425
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb50c28800b08364db3e3661b519fa14
+      internalID: -1071948692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_28
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1428
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00136f110281e4886a3255dd3cf60f
+      internalID: -1779998333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_29
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1436
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176b6c105bf027419417149d5994dc2
+      internalID: 1181452919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_30
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1435
+        width: 102
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417a1610168da7478bd3a914186173b
+      internalID: 1183660808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_31
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1425
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35870ce8b16c345b7faf96ad79af24
+      internalID: -508645480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_32
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1425
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4819a6752d0729c4b88389f3d6be2be6
+      internalID: 488256908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_33
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1425
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e360be0f0ab6dd45a9d68966b12f878
+      internalID: 1272726642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_34
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1425
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feae001ab4954f4fbe25753e59501b5
+      internalID: -47894396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_35
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1425
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feadcaa0090ac942986edc3d4e0f1e7
+      internalID: -274167890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_36
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1417
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7816d559e12168f41b1538efdef50c81
+      internalID: -848572131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_37
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1417
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d96456e51c99643b9cfdf108673ba2
+      internalID: 1762156971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_38
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1334
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de9e89b0bdc9bd4fa53e97d53edffc8
+      internalID: -863387312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_39
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1283
+        width: 218
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca874ddbdbdb8438142a6f79af793c
+      internalID: -1928916350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_40
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1305
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33aa00a4ce6f24ab2f0a8fbf45dbcb
+      internalID: -1529737338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_41
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1162
+        width: 95
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3176ad71b411a7148bd4e1a010f9183c
+      internalID: -1025968859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_42
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1283
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890107fbde559364d9ae38ea1a955b6c
+      internalID: 1490654589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_43
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1283
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4afb7bcd3de3f4b96da3769bc6fb25
+      internalID: 640844387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_44
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1283
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f82780f1e378c4f9e38e863bcbfd68
+      internalID: -699163745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_45
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1283
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a115402782d1f458d254fa4f683913
+      internalID: 706955845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_46
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1377
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235bbf43d1f536a439db99128bdf7039
+      internalID: 1209713376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_47
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1372
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37379e66b756fd34c90a8ef2427dd909
+      internalID: -824570108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_48
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1296
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aa97f43ddbf434aba37f7debafb894
+      internalID: 60260341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_49
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1296
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055f9c3e4f2a5b439a07438185c69d7
+      internalID: 1987457624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_50
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1296
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3162858d856c47bfa1cddc957d8cc
+      internalID: 1018416388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_51
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1296
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db9fdab7ad492b4fa8c8fc85454e39e
+      internalID: -1035847285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_52
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1283
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f1f1183e2d974cb0010a355d2cc68
+      internalID: -632710374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_53
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1169
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd73c1d8edf974ab5ed115d4b795dd
+      internalID: 1698898889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_54
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1169
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9807ef9368ce14e862ee31434300a8
+      internalID: 958787253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_55
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1166
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474c55a5825f9b4c88890f56b0dc7b5
+      internalID: 2027494373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_56
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1208
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80c481f8ea0db46a838f5186ed8acb
+      internalID: -444206349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_57
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1211
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34100334f5fb3e8479146a4ef7dc6a2d
+      internalID: -1874147460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_58
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1208
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a1d60de59dc94da213311d3b82206
+      internalID: -2105640544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_59
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1211
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318ff555b631c2458b6e9eef2247cf9
+      internalID: 2127548370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_60
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1170
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525dd7a42fbbe494d953bfcf78b31539
+      internalID: -1485713691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_61
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1169
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b9f89673b907148b0d7d7070c3598f
+      internalID: 583484792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_62
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1169
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7399551b7add0f4090ed3e66043bbad
+      internalID: -1832277293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_63
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1166
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951aee802223b3d4a8b8d4d819f5607e
+      internalID: 49359916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_64
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1166
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcdacc8a1c44f545bb8ab6d17a538c6
+      internalID: -870273903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_65
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1166
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a69dd0dd1a5a24d83aeb65b85e4ad0
+      internalID: -1575737629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_66
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1166
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0905d9d6c2e884bb253095ca694b7f
+      internalID: 857295090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_67
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1166
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254999e1b1f05447991947d8c2c243b
+      internalID: -1569196428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_68
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1166
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957a07d45d359f469ebd01dce02d2ec
+      internalID: 362296212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_69
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1028
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2f65e38ac750149b9143cd6a43a89f
+      internalID: -482589206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_70
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1031
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4652250a850d0c478039f3a75644c1d
+      internalID: 1794343705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_71
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1041
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c05f62ef7f4364080de7151f5ecfdc
+      internalID: 256322664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_72
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1043
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f6f505a939134b8b5a6ccd0d821a2
+      internalID: -299653507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_73
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1035
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a1abf10ea627347b9e2aa8f8db1147
+      internalID: 113190258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_74
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1036
+        width: 131
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def20095b5529374dbb13654cd190ce7
+      internalID: 626090871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_75
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1043
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ce4d1ebc436a4f805b64d496f6886
+      internalID: 81680851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_76
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1032
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3938fa15f33764ebd1b891f84134b2
+      internalID: 1809511173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_77
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1032
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf0eb4dd64f564a80695e029f9ea27
+      internalID: -944317861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_78
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1027
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d34b9945cfb2d4aa93b4c42feb7b09
+      internalID: -1280659330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_79
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1036
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55ed58fdf6173e4992630d586b8c746
+      internalID: 1446817647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_80
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1036
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00231debd3309a9418dd3ec51ddd9553
+      internalID: -1001126167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_81
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1032
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648833aa4b13a6549a3876044c7a1f09
+      internalID: 2123011547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_82
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1032
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430932016dc20d048999a4f3382f56f8
+      internalID: 337158825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 904
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78483d920ce09c439c79d0e183e591d
+      internalID: 290792582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 904
+        width: 126
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc5d2e9d9f2584682bcc4506d5dc3d
+      internalID: 159190951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 904
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8accb887e15b9e49aba8510bd788c3d
+      internalID: 158992386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_86
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 904
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb003d362e61240856df4e8395ea3e
+      internalID: 2027598904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_87
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 956
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7f81464b450b4b8c0a189433c0ce8
+      internalID: 336537920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_88
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 904
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1723d83b06947429e9b58a81e6c089
+      internalID: 983681766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 904
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961affc9245a2db4a822474b776ef986
+      internalID: -1194595878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_90
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 951
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fc72f12046b241ad5bd820da97ac3
+      internalID: 265071322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 904
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cdc80fef3bb41428f331543af41389
+      internalID: -624799277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_92
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 904
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c7b38876d6cb4583babea317dfbb3
+      internalID: -373641079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_93
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 940
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cace265368dde4d9da1567d8e348a4
+      internalID: 986721885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_94
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 904
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6268c26f7cd5ff04da30f489b3f964a1
+      internalID: -311995677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_95
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 940
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd642450f07f2d74193079b488206305
+      internalID: -664202299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_96
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 904
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598d08ebcf851ee48bdeb5a055d248cb
+      internalID: 1326967720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_97
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 940
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7974de4386749459ec03194b8dbc44
+      internalID: 1107994379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_98
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 904
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a178ea7eb7e6d048956538ae55a071d
+      internalID: 1083564854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_99
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 940
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b1e7599cb5f5a4a8d1f0ba8384ebb2
+      internalID: -213845289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_100
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 900
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5656d2d2c4ab74792aaba264bcfd0a
+      internalID: 152305982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_101
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 904
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0f1144a22c4f469bcd54e3749646e
+      internalID: 915980928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_102
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 961
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515db562ef2cfcf48984db0cfe5fd62a
+      internalID: 2132460816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_103
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 904
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d36efcd4195b4ba1444e1579edf37
+      internalID: 378395541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_104
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 961
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc07f0b74182c4f941ebf4b0192ec3
+      internalID: -1517406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_105
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 904
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b64340f4b899734c899671d867d5a19
+      internalID: -1040879144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_106
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 956
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09d72eb88c1f8488807a190c893ec2
+      internalID: -1556628919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_107
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 923
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd59f6950f62a4388dacfc2b12e477
+      internalID: -1638961979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_108
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 905
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184e99f4af145b43b39b8a771a4e7b4
+      internalID: -107302319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_109
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 906
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4883e8bd56e343d4887a710e428514fe
+      internalID: 699153461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_110
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 906
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc4fca383718045a14727300d20359
+      internalID: 150896712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_111
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 898
+        width: 115
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d5f61533435ae419598a25998f97d8
+      internalID: -911641802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_112
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 898
+        width: 115
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d113c77b279f40b153cdf97f1db06
+      internalID: 378705871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_113
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 909
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245c34d923490df43833dece33ebdb6f
+      internalID: -1153779716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_114
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 788
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3043887a4d0ed40883066493f6114f
+      internalID: -671964017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_115
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 788
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c468027519fc74bbda3cd98ff39af3
+      internalID: 1517953271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_116
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 779
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb6cbe637e22745bcdea946ac709a7
+      internalID: 1433733718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_117
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 813
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50d403d10d8c3144af8ef67213b1f04
+      internalID: -103447131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_118
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 813
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ebfdfe20a9fc7458b7898cb621b3f3
+      internalID: 58408838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_119
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 813
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd799d68b396d5048bbff708085e399d
+      internalID: 1728862512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_120
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 776
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229fcb23c5a416241a9584fec64196df
+      internalID: -573070033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_121
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 784
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aafdb6e84c116e4b9278bf10b19a80a
+      internalID: -1623652214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_122
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 779
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad694ba08b463e4cacdbe0089ec1bb1
+      internalID: 1257641655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_123
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 779
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e160d30f368f542a3df0086e7676e6
+      internalID: 1214400203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_124
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 775
+        width: 121
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e6469a3f07004b83a73b2bdb31f9a
+      internalID: -1255032742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_125
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 775
+        width: 121
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b05f6feaf3d6d48b21b461988ecf67
+      internalID: -1311074585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_126
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 775
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3c4db9f7742f40bed639e522735af
+      internalID: 1293701758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_127
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 783
+        width: 126
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587a9655b073ec4a983190e754f7205
+      internalID: 622752958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_128
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 783
+        width: 126
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9a7609e24b75645a2b7b1d4104e2f8
+      internalID: -1102088070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_129
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 785
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd712123a7178e46a10e4671902822c
+      internalID: 1904741651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_130
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 846
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f00d7d82a5264fa2bd044aed47e78
+      internalID: -2053053667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_131
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 784
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33596b745f63143a4d0a6cf951f3c6
+      internalID: 543748052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_132
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 784
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1bb765e4c878049aa15672d98babc7
+      internalID: 1400632474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_133
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 809
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8648ffe6fc8ec8479ba61186e8c5975
+      internalID: -95091407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_134
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 779
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f413261e9633340b68fe7ce1f56cd3
+      internalID: -538143008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_135
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 779
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157150e34fbf3344b18d1e5a7278f5b
+      internalID: 445281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_136
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 779
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066d37f5d52a4846bd831d591350f17
+      internalID: 1068266521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_137
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 779
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68018b4dfacd7b4428617a31f3008fdd
+      internalID: -1036230244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_138
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 776
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8eca5f02a88af44b7fc9c1b1a31f6c
+      internalID: 1626595846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_139
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 776
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d648010c54ef47aaf31c5ce2a32cc
+      internalID: 1017207357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_140
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 776
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ba4b243ecd05644a6459a24bee5b51
+      internalID: 1999010550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_141
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 654
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa151fc96586c8f479362a7e4d8f37eb
+      internalID: 441227962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_142
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 649
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb199051243a3e4fa9ce9d0e8125c77
+      internalID: 2108006426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_143
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 654
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5bae96c60049648828b4b4a6351109
+      internalID: -827954564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_144
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 670
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5ada5dd9be7584c86358f6bd02266e
+      internalID: 1781231503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_145
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 654
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b4830a7e0b5f54d921256bb998b083
+      internalID: -2018309933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_146
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 670
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d072e94a600092c47873f77a228b8d01
+      internalID: -994107594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_147
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 674
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48ac3c01ceacd74e93b8409c107d256
+      internalID: 45139348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_148
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 674
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8774611ddb95ee49a49f03592589d62
+      internalID: 1622566589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_149
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 674
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ef2178555df04bb76e0bbe28b60cb
+      internalID: 862711713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_150
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 665
+        width: 125
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d154fee8b7fc048b011a8352099665
+      internalID: -69221523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_151
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 683
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78b23869fda504ab51ce0a36eb43fe
+      internalID: -1971536687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_152
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 691
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b28f5fb1ca9ed4ca0d2bd039dc52a3
+      internalID: 473729478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_153
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 691
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baef0ada9beed5547aac141707926431
+      internalID: 893559317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_154
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 691
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027f1741c8ebae74ea993170d058321a
+      internalID: 1110538343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_155
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 658
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6fb4657d492614b878b42f48010f65
+      internalID: -1937540564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_156
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 674
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b5cfcf00a273439284c400e5bcbda
+      internalID: 1420341776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_157
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 674
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db966b270d288db4f9701647472089a0
+      internalID: -2019234986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_158
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 674
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e647e3f56b76934699e124c448a1c4b
+      internalID: 1430732116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_159
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 674
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aac94db17607e4889d611011105355
+      internalID: -1477937769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_160
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 657
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6464e7b1f213084f84a0226fe0fddeb
+      internalID: -223119103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_161
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 684
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4765fd97fda21a64194a742663964b4f
+      internalID: 106741280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_162
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 684
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de843af075ca49845b6f157e0bd3a772
+      internalID: 1179326567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_163
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 684
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf47eb52242ed49bcae396f2e3261e
+      internalID: 173284748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_164
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 680
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23211641c2dbaaf47ace89fc91c5037a
+      internalID: 1265731244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_165
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 730
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8408b6431942f4a88c02caf872bde0
+      internalID: 2024259224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_166
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 730
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870e150a6ce64d746805fe66331108d2
+      internalID: 117814515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_167
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 654
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2e586214bf8046910a1aa66d4711d
+      internalID: -1871760126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_168
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 679
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c68c80d413cbd4faa09bb622ee6d46
+      internalID: 3587304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_169
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 650
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d806154a8b2e9e4990b1818d6ce060e
+      internalID: 363134243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_170
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 650
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7b889e531359439c934c0bcc894fd
+      internalID: -1342523728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_171
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 649
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f135a01bdb0a44871b4639f1cbab6
+      internalID: -895040961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_172
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 649
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0762a82c5edab4b96c524ea1a98f6e
+      internalID: -1679397632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_173
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 649
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85425127632b7f439d765f4d5bdf37b
+      internalID: 1147338199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_174
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 670
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df7aa8ce9f1a643a04c257fe932b91
+      internalID: 2108414236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_175
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 666
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60d9509214f8114f847b04f588b2f51
+      internalID: 1591123510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_176
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 658
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23786e08240e43949998408ec3ffb6e3
+      internalID: 619512385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_177
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 666
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297736b6ab1bcb47b3f0b2ff30cef20
+      internalID: -1154116471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_178
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 666
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3dd007a6f491459ce5958527571d9
+      internalID: -206346794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_179
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 696
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fcb3c3f2d2a494b8a401910bf88d44
+      internalID: 58109535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_180
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 684
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a00238b9bcffb45bf764b9f55da009
+      internalID: 827494874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_181
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 684
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670a208b1aa7764ab24b13256b0173b
+      internalID: -548757939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_182
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 684
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d7ceb7cb89011459dd7debadadc912
+      internalID: -22372623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_183
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 695
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df49323e79f994b9965e138c7d24b5
+      internalID: 631599725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_184
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 695
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d839ab1d9ebff4d906a703f5faf7bb
+      internalID: -73373446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_185
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 649
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7efefd1e0a404b80e71ee7a145264
+      internalID: -907393445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_186
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 649
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1852fadef681ed046a21a0c27449499f
+      internalID: -861812501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_187
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 649
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726357c47fd16e40b226398297df4bb
+      internalID: 680967157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_188
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 649
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce34a291e2d0349ba18a93103acfe4
+      internalID: 1923354279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_189
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 649
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cff067c555c345a37a3466acaaa23
+      internalID: 474840561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_190
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 649
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895f6a42fe50714696a0d5eb0b88a1e
+      internalID: -2124499742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_191
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 649
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d40e2942572a4089aa565dabe9e39
+      internalID: -301367893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_192
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 649
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1622f672bc5684786d1c8951aa658a
+      internalID: -1054470744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_193
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 649
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5044ab8b150fb4b9e7fa6d189a2ed0
+      internalID: -1171626084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_194
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 662
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7c5780635cf24199d0fb18d140395
+      internalID: 622620055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_195
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 662
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb80872994578c41b127dcf9201ff14
+      internalID: -684154251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_196
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 565
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a262e8a8b6eb441ad17ef0ea6f0724
+      internalID: 1526440111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_197
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 531
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb0ef684dc3c204d95e7575b72bc58e
+      internalID: -1248917411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_198
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 531
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896663dd00c3f2046979cb429dbe8c10
+      internalID: 1158315951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_199
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 552
+        width: 127
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df119b0e3b05b74698ba49d5f28363a
+      internalID: 2115661087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_200
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 552
+        width: 103
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f63795c23148f4184c79d3923edac7
+      internalID: 118836170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_201
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 577
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3396ec23cf062bf48b0f2438168a94c3
+      internalID: 888190218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_202
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 549
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a78903ce0836b48ab51574303bf037
+      internalID: -847664484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_203
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 528
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054220660ee0a2347babcaa54d239ea0
+      internalID: 1531667343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_204
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 552
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c5ef3c742a26243934a6560a195a04
+      internalID: 1360979974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_205
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 600
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980d2644b4c74446bbd23c1815196e0
+      internalID: -1825034337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_206
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 528
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547beff463b84dd4fadb923c4d9fcd20
+      internalID: 1337352512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_207
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325030d6caaec4b4dacb965ad2bd22d1
+      internalID: 2092722935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_208
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 528
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc39b593dd9cb541bf4204c083b32c5
+      internalID: -2655721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_209
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 607
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43362dcd3fec2d0429dc5ebe50488580
+      internalID: -706409056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_210
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 560
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca707dd8de4e23543ab5c4715b3d83de
+      internalID: -396939629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_211
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 536
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6f50dc1cd5ea4da71de0c0e87245e
+      internalID: -592364419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_212
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 528
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e34602da162d124a9485f297ad94d88
+      internalID: -2015721594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_213
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 528
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd6f9f661451e84f91a89b0d927031d
+      internalID: 605179167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_214
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 528
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ac07e715050345b2a5df1694551d5
+      internalID: 740131689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_215
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 524
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b944935d039295d4f997daa53043f258
+      internalID: 411609999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_216
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 526
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd6ae88e1d474f4a8059d706342aae6
+      internalID: -1406072864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_217
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 528
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f71e30aff3636b4e9ee6508244158ac
+      internalID: 694469194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_218
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 519
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f69de7cfd2bc4e9b850585cb167e5
+      internalID: 488101602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_219
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 530
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66533728bf9e79149bccf4590934547a
+      internalID: 335644760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_220
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 577
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb903066542718446b28feb79688c319
+      internalID: -1742711532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_221
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 516
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d1b2e1ad333c49b188c1d4ea28a40
+      internalID: -1612156393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_222
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 539
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dee7dfbbe181f9489a0375f1d1f7074
+      internalID: 89161898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_223
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 520
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ad63796baece4490a5b100b4382a8
+      internalID: 938882274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_224
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 527
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3757e879b4821548972a38958028033
+      internalID: 1845373467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_225
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 443
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e97249ffac46c4c92aa204d1ccb6d6
+      internalID: 454968411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_226
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 444
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61335ba5748e047b0c984f6ac08167
+      internalID: 1560134639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_227
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 448
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e01940b41b4474885b22e525e95074
+      internalID: -1851510829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_228
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 448
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5ea7e5d43fd6409170fd634cd25e2
+      internalID: 987440237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_229
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 448
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbe94a0065f6c7448f8f42385c0ffd4
+      internalID: 2019339705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_230
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 452
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3f5c89a64de54d8d0ab9c60effff7
+      internalID: -815417030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_231
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 414
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7336031327fec49ba9abb9d3fff5a8
+      internalID: -482925084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_232
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 402
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fd037c420d93f4994fd5ae11af6d98
+      internalID: -734493522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_233
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 402
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38904a8b318d9274e8ed848958943bc4
+      internalID: -568142169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_234
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 422
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc320e145179b4a86238f8a3465de8
+      internalID: -1138470664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_235
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 402
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816676ce53a2fd409870f0a1f50edd3
+      internalID: -1277157674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_236
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 402
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aeda15ef9a80b498ee19a3c2facb94
+      internalID: 2113774235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_237
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 402
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e5aee517980c4f9765b2c8e8b0601
+      internalID: 709531040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_238
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 402
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e244f9b6175e54a937a8fb1e661f0d
+      internalID: 84417563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_239
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 402
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c716c18b931e4b8025ac771707399
+      internalID: -488843923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_240
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 401
+        width: 127
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0d626f573a14408ae72ddea6c26a7
+      internalID: -1604807217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_241
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 425
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd79a6ff7465db4494061a14c1beae7
+      internalID: -506005435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_242
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 397
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d81ce0a2591f4883f78d3269aafe1
+      internalID: -513652985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_243
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 397
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a35a0e34e625747858c5f381a6dba8
+      internalID: 1246430883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 394
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57028077937571540a9ba130d82556b4
+      internalID: 1055731429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_245
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 394
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce00ab651b0ab214abd7561ff58f60d8
+      internalID: -1117538200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_246
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 394
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e59283a9fe644489b2f55c499178de
+      internalID: -1992953747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_247
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 394
+        width: 109
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a443a290fd57be42af2069f61ff4a36
+      internalID: -1001771959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_248
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 394
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54007c44d9b9cc943b0ff6616d0f5473
+      internalID: -1463664507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_249
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 394
+        width: 109
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270292cd86a7ca44b98a7f41c3642204
+      internalID: -318378863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_250
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 394
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea8fc0233615af4cbf6f7ee24028f07
+      internalID: -839779751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_251
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 398
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cd0667dd2db446b206d0712bdf7b0
+      internalID: -671330239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_252
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 410
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27db3a80666116f4c8932059bc695326
+      internalID: -1814345541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_253
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 393
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae10f44bc9c91543a502c6bc2fe90ef
+      internalID: 219405851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_254
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 398
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed65feae26bab48a560bc7c82c10b7
+      internalID: -642982261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_255
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 314
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971cbf4642cef7249ab67a74f4442dc8
+      internalID: -227472101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_256
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 356
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500689ee2ff580948b3a5f93c2b30871
+      internalID: 211515471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_257
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 268
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38fe87c2f1083242b90560dcbd57edb
+      internalID: -430643121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_258
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 356
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb355b3f3dda84f449e4f600a424e68b
+      internalID: -1336399058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_259
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 268
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068301f395af1048aad80ff7eb2ca64
+      internalID: -173567619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_260
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 268
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baadce8f1b16ccd418df1fb5b5d81d7f
+      internalID: 159870464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_261
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 268
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25560bab93ceec94799492434166714f
+      internalID: 1457171828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_262
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 268
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbea8bf0f46a7c640a36a4fff401a700
+      internalID: 336903892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_263
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 268
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d21401a88d5d4fafdabb731d88d91
+      internalID: 161181509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_264
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 261
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f5ad89e4a805945b85ba1973ccc173
+      internalID: 2052345851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_265
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 259
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fca28fc5950a754492579c68119f28c
+      internalID: 34879015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_266
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 262
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b503ac5ee1f43a41aaf67e3b7d6d4d8
+      internalID: -789377201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_267
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 268
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8993995ce8ef24c8fb84320649a3b5
+      internalID: 1098986602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_268
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 271
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5943d2ad6721724fac275cd60ce9ce9
+      internalID: -1117430925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_269
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 268
+        width: 43
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735f6344a92fa5a419cd1178a7c32059
+      internalID: 2087633254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_270
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 268
+        width: 43
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ddea5b5463cc746a670af8088db582
+      internalID: -334054638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_271
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 304
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5fc1d7e9477d84e820c3bb06be9ffd
+      internalID: 759581034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_272
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 268
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158a864e0ab62147b4fc04bfd2b1e7f
+      internalID: -701543284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_273
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 267
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9297708b5f6114fb3fb34bad94f130
+      internalID: 891285341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_274
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 268
+        width: 88
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d4f6ba03348484ab5b5d2b898dce65
+      internalID: 1207024749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_275
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 268
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20465136ca1c17f44ab354d2c7118a89
+      internalID: -1891154770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_276
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 264
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b3a96f90be7714d8eeeec69c0d95bb
+      internalID: 464520342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_277
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 275
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee83687634add64bad2a2ccd5e8874b
+      internalID: -1657144479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_278
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 264
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbc67e6efcc0e46acf8cce899c6c8e
+      internalID: -1221880469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_279
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070740d14312fde4789d4400deb32252
+      internalID: 2123606010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_280
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9050522d838d24fadc8afe81b8d632
+      internalID: -68459391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_281
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc43b6bd25c8d342a181b56051d13a8
+      internalID: 282384394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_282
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c881dec7d762de40b36bc0e5c3ba6bf
+      internalID: 34897159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_283
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eae906ed3d64c49a98cfea4036f1f8
+      internalID: 2020643631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_284
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e05a406286dbd4bbab97173a4e36f8
+      internalID: 1128734168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_285
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2f336774c0004bbbf425931acd155
+      internalID: -1072385545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_286
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9f9c1de251d6443b847a2e7d4d2707
+      internalID: 1027983816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_287
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd5b05979d92c4e9338fae6006d5f4
+      internalID: 1934398036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_288
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cefc77bd4854242b53ecefa8c112c8
+      internalID: -1480006313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_289
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51995d4489d6d9448ad5053c440e8046
+      internalID: 124614781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_290
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 135
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96723cdab640e3148a3c88a80848fd69
+      internalID: 195336502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_291
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 135
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf86af2f3eb8044ea9e6d5d63e60067
+      internalID: 1512577820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_292
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 135
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ecdf4f02e41142a69e1e942f78512
+      internalID: -358493927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_293
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 135
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc5177876ff2634a80a0783402f0d51
+      internalID: 664268284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_294
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 135
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5cb3eb44d7b549ac20865903e5a7e
+      internalID: 965124005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_295
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 135
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f903799a49954d820ec76bc3645d9
+      internalID: 1482006890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_296
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616451e06fe6858468d4ef2f0b61b57a
+      internalID: -2062234042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_297
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54055fc3bc74c7e43bd624c23816e816
+      internalID: -672523202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_298
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e19541b4999c4147a1e0fb7afcf5b79
+      internalID: -1439727336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_299
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667001531177f5a4ab5f74f2d84133d2
+      internalID: -1523281032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_300
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78adcf228e88b4bae7537f29a64ee8
+      internalID: 1843084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_301
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50445cdf992dc24eba8782b980092df
+      internalID: -315818471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_302
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ca4979019fc54cbe8375eb71c7b52
+      internalID: 2008845552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_303
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b179423e598c42409af22b5133e5bb4
+      internalID: 993792090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_304
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61344b27b14b3ec428e6d33d72fbbbf3
+      internalID: 693232320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_305
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7813d3479ee64a242b9d792abbe60bf4
+      internalID: 1438501091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_306
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 6
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbefd536c5c91c418889be71fc2dfa5
+      internalID: -2050253752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_307
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 6
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e986e2eb74ec104b94e138d45d069fd
+      internalID: 1031795488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_308
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 6
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb960276f1a652745b8f0cb44a4e0a48
+      internalID: 1133966334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_309
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 6
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe7acd38215614d919c24849e73f7e
+      internalID: 1270904413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_310
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 0
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ef052e09978448a8279e63f96698d
+      internalID: 1700731158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_311
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 0
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160740ebef650d14ab1e98cb963d7424
+      internalID: -504991232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1_312
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 0
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b50a92910f5dc74495da93eb6a1a855
+      internalID: 1630070453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Interfaz1_0: -141326371
+      Interfaz1_1: -611804751
+      Interfaz1_10: 1796158000
+      Interfaz1_100: 152305982
+      Interfaz1_101: 915980928
+      Interfaz1_102: 2132460816
+      Interfaz1_103: 378395541
+      Interfaz1_104: -1517406405
+      Interfaz1_105: -1040879144
+      Interfaz1_106: -1556628919
+      Interfaz1_107: -1638961979
+      Interfaz1_108: -107302319
+      Interfaz1_109: 699153461
+      Interfaz1_11: 674292850
+      Interfaz1_110: 150896712
+      Interfaz1_111: -911641802
+      Interfaz1_112: 378705871
+      Interfaz1_113: -1153779716
+      Interfaz1_114: -671964017
+      Interfaz1_115: 1517953271
+      Interfaz1_116: 1433733718
+      Interfaz1_117: -103447131
+      Interfaz1_118: 58408838
+      Interfaz1_119: 1728862512
+      Interfaz1_12: -1093637587
+      Interfaz1_120: -573070033
+      Interfaz1_121: -1623652214
+      Interfaz1_122: 1257641655
+      Interfaz1_123: 1214400203
+      Interfaz1_124: -1255032742
+      Interfaz1_125: -1311074585
+      Interfaz1_126: 1293701758
+      Interfaz1_127: 622752958
+      Interfaz1_128: -1102088070
+      Interfaz1_129: 1904741651
+      Interfaz1_13: 955338669
+      Interfaz1_130: -2053053667
+      Interfaz1_131: 543748052
+      Interfaz1_132: 1400632474
+      Interfaz1_133: -95091407
+      Interfaz1_134: -538143008
+      Interfaz1_135: 445281693
+      Interfaz1_136: 1068266521
+      Interfaz1_137: -1036230244
+      Interfaz1_138: 1626595846
+      Interfaz1_139: 1017207357
+      Interfaz1_14: 1949026511
+      Interfaz1_140: 1999010550
+      Interfaz1_141: 441227962
+      Interfaz1_142: 2108006426
+      Interfaz1_143: -827954564
+      Interfaz1_144: 1781231503
+      Interfaz1_145: -2018309933
+      Interfaz1_146: -994107594
+      Interfaz1_147: 45139348
+      Interfaz1_148: 1622566589
+      Interfaz1_149: 862711713
+      Interfaz1_15: -1039322782
+      Interfaz1_150: -69221523
+      Interfaz1_151: -1971536687
+      Interfaz1_152: 473729478
+      Interfaz1_153: 893559317
+      Interfaz1_154: 1110538343
+      Interfaz1_155: -1937540564
+      Interfaz1_156: 1420341776
+      Interfaz1_157: -2019234986
+      Interfaz1_158: 1430732116
+      Interfaz1_159: -1477937769
+      Interfaz1_16: 900719751
+      Interfaz1_160: -223119103
+      Interfaz1_161: 106741280
+      Interfaz1_162: 1179326567
+      Interfaz1_163: 173284748
+      Interfaz1_164: 1265731244
+      Interfaz1_165: 2024259224
+      Interfaz1_166: 117814515
+      Interfaz1_167: -1871760126
+      Interfaz1_168: 3587304
+      Interfaz1_169: 363134243
+      Interfaz1_17: 539165010
+      Interfaz1_170: -1342523728
+      Interfaz1_171: -895040961
+      Interfaz1_172: -1679397632
+      Interfaz1_173: 1147338199
+      Interfaz1_174: 2108414236
+      Interfaz1_175: 1591123510
+      Interfaz1_176: 619512385
+      Interfaz1_177: -1154116471
+      Interfaz1_178: -206346794
+      Interfaz1_179: 58109535
+      Interfaz1_18: -1453235515
+      Interfaz1_180: 827494874
+      Interfaz1_181: -548757939
+      Interfaz1_182: -22372623
+      Interfaz1_183: 631599725
+      Interfaz1_184: -73373446
+      Interfaz1_185: -907393445
+      Interfaz1_186: -861812501
+      Interfaz1_187: 680967157
+      Interfaz1_188: 1923354279
+      Interfaz1_189: 474840561
+      Interfaz1_19: 1168349853
+      Interfaz1_190: -2124499742
+      Interfaz1_191: -301367893
+      Interfaz1_192: -1054470744
+      Interfaz1_193: -1171626084
+      Interfaz1_194: 622620055
+      Interfaz1_195: -684154251
+      Interfaz1_196: 1526440111
+      Interfaz1_197: -1248917411
+      Interfaz1_198: 1158315951
+      Interfaz1_199: 2115661087
+      Interfaz1_2: -965219886
+      Interfaz1_20: -1975572793
+      Interfaz1_200: 118836170
+      Interfaz1_201: 888190218
+      Interfaz1_202: -847664484
+      Interfaz1_203: 1531667343
+      Interfaz1_204: 1360979974
+      Interfaz1_205: -1825034337
+      Interfaz1_206: 1337352512
+      Interfaz1_207: 2092722935
+      Interfaz1_208: -2655721
+      Interfaz1_209: -706409056
+      Interfaz1_21: 1785306601
+      Interfaz1_210: -396939629
+      Interfaz1_211: -592364419
+      Interfaz1_212: -2015721594
+      Interfaz1_213: 605179167
+      Interfaz1_214: 740131689
+      Interfaz1_215: 411609999
+      Interfaz1_216: -1406072864
+      Interfaz1_217: 694469194
+      Interfaz1_218: 488101602
+      Interfaz1_219: 335644760
+      Interfaz1_22: -1218034281
+      Interfaz1_220: -1742711532
+      Interfaz1_221: -1612156393
+      Interfaz1_222: 89161898
+      Interfaz1_223: 938882274
+      Interfaz1_224: 1845373467
+      Interfaz1_225: 454968411
+      Interfaz1_226: 1560134639
+      Interfaz1_227: -1851510829
+      Interfaz1_228: 987440237
+      Interfaz1_229: 2019339705
+      Interfaz1_23: 83421766
+      Interfaz1_230: -815417030
+      Interfaz1_231: -482925084
+      Interfaz1_232: -734493522
+      Interfaz1_233: -568142169
+      Interfaz1_234: -1138470664
+      Interfaz1_235: -1277157674
+      Interfaz1_236: 2113774235
+      Interfaz1_237: 709531040
+      Interfaz1_238: 84417563
+      Interfaz1_239: -488843923
+      Interfaz1_24: -536212390
+      Interfaz1_240: -1604807217
+      Interfaz1_241: -506005435
+      Interfaz1_242: -513652985
+      Interfaz1_243: 1246430883
+      Interfaz1_244: 1055731429
+      Interfaz1_245: -1117538200
+      Interfaz1_246: -1992953747
+      Interfaz1_247: -1001771959
+      Interfaz1_248: -1463664507
+      Interfaz1_249: -318378863
+      Interfaz1_25: -490383666
+      Interfaz1_250: -839779751
+      Interfaz1_251: -671330239
+      Interfaz1_252: -1814345541
+      Interfaz1_253: 219405851
+      Interfaz1_254: -642982261
+      Interfaz1_255: -227472101
+      Interfaz1_256: 211515471
+      Interfaz1_257: -430643121
+      Interfaz1_258: -1336399058
+      Interfaz1_259: -173567619
+      Interfaz1_26: -44490142
+      Interfaz1_260: 159870464
+      Interfaz1_261: 1457171828
+      Interfaz1_262: 336903892
+      Interfaz1_263: 161181509
+      Interfaz1_264: 2052345851
+      Interfaz1_265: 34879015
+      Interfaz1_266: -789377201
+      Interfaz1_267: 1098986602
+      Interfaz1_268: -1117430925
+      Interfaz1_269: 2087633254
+      Interfaz1_27: -1071948692
+      Interfaz1_270: -334054638
+      Interfaz1_271: 759581034
+      Interfaz1_272: -701543284
+      Interfaz1_273: 891285341
+      Interfaz1_274: 1207024749
+      Interfaz1_275: -1891154770
+      Interfaz1_276: 464520342
+      Interfaz1_277: -1657144479
+      Interfaz1_278: -1221880469
+      Interfaz1_279: 2123606010
+      Interfaz1_28: -1779998333
+      Interfaz1_280: -68459391
+      Interfaz1_281: 282384394
+      Interfaz1_282: 34897159
+      Interfaz1_283: 2020643631
+      Interfaz1_284: 1128734168
+      Interfaz1_285: -1072385545
+      Interfaz1_286: 1027983816
+      Interfaz1_287: 1934398036
+      Interfaz1_288: -1480006313
+      Interfaz1_289: 124614781
+      Interfaz1_29: 1181452919
+      Interfaz1_290: 195336502
+      Interfaz1_291: 1512577820
+      Interfaz1_292: -358493927
+      Interfaz1_293: 664268284
+      Interfaz1_294: 965124005
+      Interfaz1_295: 1482006890
+      Interfaz1_296: -2062234042
+      Interfaz1_297: -672523202
+      Interfaz1_298: -1439727336
+      Interfaz1_299: -1523281032
+      Interfaz1_3: -1488727250
+      Interfaz1_30: 1183660808
+      Interfaz1_300: 1843084
+      Interfaz1_301: -315818471
+      Interfaz1_302: 2008845552
+      Interfaz1_303: 993792090
+      Interfaz1_304: 693232320
+      Interfaz1_305: 1438501091
+      Interfaz1_306: -2050253752
+      Interfaz1_307: 1031795488
+      Interfaz1_308: 1133966334
+      Interfaz1_309: 1270904413
+      Interfaz1_31: -508645480
+      Interfaz1_310: 1700731158
+      Interfaz1_311: -504991232
+      Interfaz1_312: 1630070453
+      Interfaz1_32: 488256908
+      Interfaz1_33: 1272726642
+      Interfaz1_34: -47894396
+      Interfaz1_35: -274167890
+      Interfaz1_36: -848572131
+      Interfaz1_37: 1762156971
+      Interfaz1_38: -863387312
+      Interfaz1_39: -1928916350
+      Interfaz1_4: 1385262850
+      Interfaz1_40: -1529737338
+      Interfaz1_41: -1025968859
+      Interfaz1_42: 1490654589
+      Interfaz1_43: 640844387
+      Interfaz1_44: -699163745
+      Interfaz1_45: 706955845
+      Interfaz1_46: 1209713376
+      Interfaz1_47: -824570108
+      Interfaz1_48: 60260341
+      Interfaz1_49: 1987457624
+      Interfaz1_5: -2109630045
+      Interfaz1_50: 1018416388
+      Interfaz1_51: -1035847285
+      Interfaz1_52: -632710374
+      Interfaz1_53: 1698898889
+      Interfaz1_54: 958787253
+      Interfaz1_55: 2027494373
+      Interfaz1_56: -444206349
+      Interfaz1_57: -1874147460
+      Interfaz1_58: -2105640544
+      Interfaz1_59: 2127548370
+      Interfaz1_6: 816871858
+      Interfaz1_60: -1485713691
+      Interfaz1_61: 583484792
+      Interfaz1_62: -1832277293
+      Interfaz1_63: 49359916
+      Interfaz1_64: -870273903
+      Interfaz1_65: -1575737629
+      Interfaz1_66: 857295090
+      Interfaz1_67: -1569196428
+      Interfaz1_68: 362296212
+      Interfaz1_69: -482589206
+      Interfaz1_7: -1942441286
+      Interfaz1_70: 1794343705
+      Interfaz1_71: 256322664
+      Interfaz1_72: -299653507
+      Interfaz1_73: 113190258
+      Interfaz1_74: 626090871
+      Interfaz1_75: 81680851
+      Interfaz1_76: 1809511173
+      Interfaz1_77: -944317861
+      Interfaz1_78: -1280659330
+      Interfaz1_79: 1446817647
+      Interfaz1_8: 1465399936
+      Interfaz1_80: -1001126167
+      Interfaz1_81: 2123011547
+      Interfaz1_82: 337158825
+      Interfaz1_83: 290792582
+      Interfaz1_84: 159190951
+      Interfaz1_85: 158992386
+      Interfaz1_86: 2027598904
+      Interfaz1_87: 336537920
+      Interfaz1_88: 983681766
+      Interfaz1_89: -1194595878
+      Interfaz1_9: 354099121
+      Interfaz1_90: 265071322
+      Interfaz1_91: -624799277
+      Interfaz1_92: -373641079
+      Interfaz1_93: 986721885
+      Interfaz1_94: -311995677
+      Interfaz1_95: -664202299
+      Interfaz1_96: 1326967720
+      Interfaz1_97: 1107994379
+      Interfaz1_98: 1083564854
+      Interfaz1_99: -213845289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
